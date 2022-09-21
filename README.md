@@ -11,3 +11,6 @@ In this exercise, two models were implemented for diabetes diagnosis. The first 
 ## Dimentionality Reduction (DR)
 In this exercise, PCA algorithm used to obtain dimentionality reduction on the dataset. The dataset is the famous people dataset of the sklearn library. After dimensionality reduction, the resultant dataset was fed to two models: 1. Support Vector Machine and 2. Neural Network
 Finaly the result of two models in different cases of DR was reported.
+
+## Data Stream Mining
+The final project was about data stream mining by using grid based clustering method that was proposed in an article named "A clustering and ensemble based classifier for data stream classification" by Kapil K. Wankhade et al. We had to recreate the proposed model and test the dataset with it. The dataset is available in the folder.
